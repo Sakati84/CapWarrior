@@ -6,7 +6,7 @@
 Cap Wars is an *Advance Wars* like strategy game that is played with 3D printed pawns on a tablet. The pawns need to be coated with graphite in order to interact with the touchscreen.
 
 You can watch this video for a quick overview of the game and the process required to create the pawns:  
-[![IMAGE ALT TEXT HERE](video.PNG)](https://youtu.be/SLH1cwr5F_g)  
+[![IMAGE ALT TEXT HERE](Video.PNG)](https://youtu.be/SLH1cwr5F_g)  
 *[YouTube link](https://youtu.be/SLH1cwr5F_g)*
 
 ## Making the pawns
