@@ -6,7 +6,7 @@
 Cap Wars is an *Advance Wars* like strategy game that is played with 3D printed pawns on a tablet. The pawns need to be coated with graphite in order to interact with the touchscreen.
 
 You can watch this video for a quick overview of the game and the process required to create the pawns:  
-[![IMAGE ALT TEXT HERE](video.png)](https://youtu.be/SLH1cwr5F_g)  
+[![IMAGE ALT TEXT HERE](video.PNG)](https://youtu.be/SLH1cwr5F_g)  
 *[YouTube link](https://youtu.be/SLH1cwr5F_g)*
 
 ## Making the pawns
@@ -16,7 +16,7 @@ If you want you can also print the 2 holder pieces to have a nice box for your p
 
 After printing the pawns you need to coat them with graphite to make them conductive and interact with the touchscreen of your tablet. You should apply at least 2 coats. I tried **a lot** of different coatings up in the end only graphite spray worked really well. I used this spray:
 
-[![](Spray.png)](https://www.amazon.de/gp/product/B00OG1LI1O)  
+[![](Spray.PNG)](https://www.amazon.de/gp/product/B00OG1LI1O)  
 *[Amazon link](https://www.amazon.de/gp/product/B00OG1LI1O)*
 
 After coating the pawns with graphite you can paint or spray them with a thin layer of paint. You should use a thin and very opaque paint for this. In my experience metallic colors work best for this.
