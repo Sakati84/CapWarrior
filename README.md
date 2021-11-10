@@ -36,3 +36,9 @@ When you start the game through the new icon added to your home screen it should
 The game is pretty similar to *Advance Wars* or other turn based strategy games. After starting a game and selecting a map you need to place your pawns on the touchscreen. Hit "End" to end the troop deployment and start the game. The currently active unit and it´s movement range is highlighted. Move your unit and select a unit to attack by tapping on it. End your turn and start attacking the enemy unit by tapping "End".
 
 > **The game is still under development and mainly intended to demonstrate a cheap and easy way to produce 3D printed pawns for touchscreen interaction. It is not intended to be a AAA gaming experience or anything like that.**
+
+
+---
+If you want you can:
+
+<a href="https://www.buymeacoffee.com/sakati" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" height="40" ></a>
