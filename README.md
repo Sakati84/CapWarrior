@@ -10,7 +10,7 @@ You can watch this video for a quick overview of the game and the process requir
 *[YouTube link](https://youtu.be/SLH1cwr5F_g)*
 
 ## Making the pawns
-Go to the STL Folder of the repo and print all units (everything except the 2 holder pieces) twice. You should print with a **1.2 mm Layer height** and **without supports**. 
+Go to the STL Folder of the repo and print all units (everything except the 2 holder pieces) twice. You should print with a **0.12 mm Layer height** and **without supports**. 
 
 If you want you can also print the 2 holder pieces to have a nice box for your pawns.
 
