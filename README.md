@@ -1,4 +1,4 @@
-# Cap Warrior
+# Cap Wars
 
 ![](Thumbnail.jpg) 
 
